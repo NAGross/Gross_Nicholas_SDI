@@ -93,4 +93,37 @@ while(fillUP==="" || isNaN(fillUP))
     } else if (isNaN(fillUP)) {
         fillUP = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas you would like to put into your tank.");
     }
+
+//Finding the actual amount it would take to fill your gas tank
+
+var filledTank = (+fullTank - +currentTank);
+
+alert("Its would take "+filledTank+ " gallons to fill your tank");
+
+console.log(filledTank);
+
+// Finding out how much gas the randomizer think you should put in your tank with returned value
+
+var returnedValue = finder(fillUP,currentTank);
+
+finder(fillUP,currentTank);
+
+console.log("The amount of gas you should put in your tank is "+returnedValue);
+
+
+function finder(fill,current) {
+
+    var finder = Math.round(Math.random() * (fill - current) + Number(fill));
+
+    }
+
+//returned value
+
+    return finder;
+
+}
 ..
+
+
+
+
