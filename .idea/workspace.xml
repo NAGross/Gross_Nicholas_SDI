@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2722d41-b093-4ff7-b066-e4b43a0aa3e9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Gross_Nicholas_SDI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js" afterPath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js" />
     </list>
     <ignored path="Gross_Nicholas_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,8 +36,8 @@
       <file leaf-file-name="AssociatedJS.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5157593">
-              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8710602">
+              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -288,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5157593">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.8710602">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
