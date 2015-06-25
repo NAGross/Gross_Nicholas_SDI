@@ -73,3 +73,24 @@ while(currentTank==="" || isNaN(currentTank))
     } else if (isNaN(currentTank)) {
         currentTank = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas remaining in your tank");
     }
+
+//Going to the gas station. How much gas would you like to put in your tank?
+
+
+var fillUP = prompt("How much gas would you like to put in your gas tank?");
+console.log(fillUP);
+
+
+//looking to see if user left prompt empty
+
+
+while(fillUP==="" || isNaN(fillUP))
+
+    //re prompt the user
+
+    if (fillUP === "") {
+        fillUP = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas you would like to put into your tank.");
+    } else if (isNaN(fillUP)) {
+        fillUP = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas you would like to put into your tank.");
+    }
+..
