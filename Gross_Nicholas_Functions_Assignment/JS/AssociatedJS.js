@@ -53,4 +53,23 @@ while(fullTank==="")
     }
 
 console.log(fullTank);
-.
+
+
+//Finding out how much gas in currently in there tank
+
+var currentTank = prompt("How many gallons are left in your tank?");
+console.log(currentTank);
+
+
+
+//test prompt to see of variable is empty
+
+while(currentTank==="" || isNaN(currentTank))
+
+    //reprompting the user
+
+    if (currentTank === "") {
+        currentTank = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas remaining in your tank");
+    } else if (isNaN(currentTank)) {
+        currentTank = prompt("Do not leave blank.\n Only use numbers and enter the amount of gas remaining in your tank");
+    }
