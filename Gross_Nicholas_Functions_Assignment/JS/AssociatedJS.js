@@ -12,7 +12,7 @@
 
 // Welcome the user
 
-alert("Welcome, Today we will find out how much gas is \nleft in your gas tank!");
+alert("Welcome!\nToday we will find out how much gas is left in your gas tank!");
 
 //Find out the users name
 
@@ -104,26 +104,19 @@ console.log(filledTank);
 
 // Finding out how much gas the randomizer think you should put in your tank with returned value
 
-var returnedValue = finder(fillUP,currentTank);
+var returnValue = finder(fillUP,currentTank);
 
 finder(fillUP,currentTank);
 
-console.log("The amount of gas you should put in your tank is "+returnedValue);
+
+console.log("The amount of gas you should put in your tank is "+returnValue);
 
 
 function finder(fill,current) {
 
     var finder = Math.round(Math.random() * (fill - current) + Number(fill));
 
-    }
-
-//returned value
-
     return finder;
 
 }
-..
-
-
-
 

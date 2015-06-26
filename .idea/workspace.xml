@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c2722d41-b093-4ff7-b066-e4b43a0aa3e9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js" afterPath="$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Gross_Nicholas_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,8 +37,8 @@
       <file leaf-file-name="AssociatedJS.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8925502">
-              <caret line="124" column="2" selection-start-line="124" selection-start-column="2" selection-end-line="124" selection-end-column="2" />
+            <state vertical-scroll-proportion="0.7421203">
+              <caret line="116" column="77" selection-start-line="116" selection-start-column="77" selection-end-line="116" selection-end-column="77" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -283,8 +284,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gross_Nicholas_Functions_Assignment/JS/AssociatedJS.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8925502">
-          <caret line="124" column="2" selection-start-line="124" selection-start-column="2" selection-end-line="124" selection-end-column="2" />
+        <state vertical-scroll-proportion="0.7421203">
+          <caret line="116" column="77" selection-start-line="116" selection-start-column="77" selection-end-line="116" selection-end-column="77" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
